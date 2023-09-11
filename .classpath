@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-aop-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-aop-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-aop-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-aspects-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-aspects-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-aspects-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-beans-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-beans-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-beans-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-context-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-context-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-context-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-context-indexer-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-context-indexer-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-context-indexer-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-context-support-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-context-support-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-context-support-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-core-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-core-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-core-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-expression-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-expression-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-expression-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-instrument-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-instrument-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-instrument-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-jcl-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-jcl-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-jcl-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-jdbc-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-jdbc-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-jdbc-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-jms-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-jms-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-jms-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-messaging-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-messaging-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-messaging-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-orm-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-orm-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-orm-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-oxm-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-oxm-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-oxm-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-r2dbc-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-r2dbc-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-r2dbc-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-test-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-test-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-test-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-tx-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-tx-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-tx-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-web-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-web-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-web-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-webflux-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-webflux-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-webflux-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-webmvc-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-webmvc-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-webmvc-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-websocket-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-websocket-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/spring jars/spring-websocket-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/jakarta.servlet-api-4.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/c3p0-0.9.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/hibernate-c3p0-4.2.3.Final.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/hibernate-commons-annotations-4.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/hibernate-core-4.2.3.Final.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/hibernate-entitymanager-4.2.3.Final.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/hibernate-envers-4.2.3.Final.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/hibernate-osgi-4.2.3.Final.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/jboss-transaction-api_1.1_spec-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/mchange-commons-java-0.2.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/neha/Hibernatejar/Hibernatejar/org.osgi.core-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/study related/programs/jstl-1.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
